@@ -1,5 +1,6 @@
-1641b1d0121af6f1037d1124d8e975e0 *DESCRIPTION
+bf828bf80dfdcd75276de4b31b9222b1 *DESCRIPTION
 586119c60182067668dfeec4249146e7 *NAMESPACE
+d613fa3f56c0369a9c25d0f9f6790376 *NEWS.md
 9d16f109fb3e2e2ce81820fac775c6b3 *R/RcppExports.R
 13496e9c01d24db8b9b000bca1bf7ddb *R/createLocScaleGrid.R
 8d6dd98b6789367f50549b11e848fffc *R/data.R
@@ -47,7 +48,7 @@ af0b41031ea7d0df237f57a3164df88c *src/RWSampler.h
 06a42e504d6d0b734a8f234464bb7baa *src/covs.h
 4a1d10abf5b6b6e9c632e488225e1721 *src/distributions.cpp
 bbd07e77c8acee1c92c5263d1d296b22 *src/distributions.h
-ce708e531641492411f46064f93130fd *src/sKrig.cpp
+6367874d818d38340c8cf62ae82b02a7 *src/sKrig.cpp
 40a7064134b59e5be692ff539385026e *src/sMod.cpp
 4a1d4e040b865c80495157e5496a07d7 *src/transformations.cpp
 55bfb0f2da3e1b43e82966ff6423e0de *src/transformations.h
